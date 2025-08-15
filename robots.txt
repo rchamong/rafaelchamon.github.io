@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://rchamong.github.io/rafaelchamon.github.io/sitemap.xml
+
+Sitemap: https://rchamong.github.io/sitemap.xml
